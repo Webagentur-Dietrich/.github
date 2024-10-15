@@ -1,6 +1,7 @@
-# Web agency Dietrich
+# Webagentur Dietrich
 
-**Customised web development for individual solutions  
+**Customised web development for individual solutions**
+
 Welcome to Webagentur Dietrich! Our focus is on the customised development of websites that are precisely suited to the needs of our customers. Whether it's customised web applications or user-friendly websites - we deliver creative and effective solutions.
 
 ## 🌟 What we do
